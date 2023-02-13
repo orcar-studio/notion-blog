@@ -12,14 +12,26 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `섬카`,
+      href: "https://fast.sumcar.kr",
+    },
+    {
+      name: `오르카 ERP`,
+      href: "https://rent.orcar.kr",
+    },
+    {
+      name: `오르카 파트너스`,
+      href: "https://partners.orcar.kr",
+    },
+    {
+      name: `무지개렌터카 직판 사이트`,
+      href: "https://rainbowrent.co.kr",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "정키의 블로그",
-    description: "정키의 블로그입니다.",
+    title: "zzunkie",
+    description: "zzunkie's blog",
     theme: "dark", // ['light', 'dark', 'auto']
   },
 
