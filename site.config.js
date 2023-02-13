@@ -1,14 +1,12 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "zzunkie",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    name: "오르카 스튜디오",
+    image: "/orcar-logo-2.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "오르카 스튜디오 CTO",
     bio: "team.orcar.kr",
-    email: "zzunkie@gmail.com",
-    linkedin: "zzunkie",
-    github: "zzunkie",
-    instagram: "zzunkie",
+    email: "contact@orcar.kr",
+    github: "orcar-studio",
   },
   projects: [
     {
@@ -30,14 +28,14 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "zzunkie",
-    description: "zzunkie's blog",
-    theme: "dark", // ['light', 'dark', 'auto']
+    title: "오르카 스튜디오",
+    description: "Orcar Studio's Blog",
+    theme: "auto", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
-  link: "https://zzunkie.vercel.app",
-  since: 2023, // If leave this empty, current year will be used.
+  link: "https://today.orcar.kr",
+  since: 2022, // If leave this empty, current year will be used.
   lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
   seo: {
@@ -65,7 +63,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: "zzunkie/morethan-log",
+      repo: "orcar-studio/notion-blog",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
