@@ -4,7 +4,7 @@ const CONFIG = {
     name: "zzunkie",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "오르카 스튜디오 CTO",
-    bio: "ㅁㄴㅇㄹ",
+    bio: "team.orcar.kr",
     email: "zzunkie@gmail.com",
     linkedin: "zzunkie",
     github: "zzunkie",
@@ -18,9 +18,9 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
-    theme: "light", // ['light', 'dark', 'auto']
+    title: "정키의 블로그",
+    description: "정키의 블로그입니다.",
+    theme: "dark", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
