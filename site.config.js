@@ -7,6 +7,8 @@ const CONFIG = {
     bio: "team.orcar.kr",
     email: "contact@orcar.kr",
     github: "orcar-studio",
+    linkedin: "",
+    instagram: "",
   },
   projects: [
     {
