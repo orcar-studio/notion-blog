@@ -4,7 +4,7 @@ const CONFIG = {
     name: "오르카 스튜디오",
     image: "/orcar-logo-2.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "team.orcar.kr",
-    bio: "공유 모빌리티 시장의 혁신을 꿈꾸는 오르카 스튜디오입니다.r",
+    bio: "공유 모빌리티 시장의 혁신을 꿈꾸는 오르카 스튜디오입니다.",
     email: "contact@orcar.kr",
     github: "orcar-studio",
     linkedin: "",
